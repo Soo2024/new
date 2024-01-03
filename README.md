@@ -11,9 +11,10 @@ All the folder is used git to clone into this repo.
 
 2. Todo Application
 
-  This Application exercise done by React Native. This Expo application refer by youtube tutorial video which Link:
+  This Application exercise done by React Native.The filename in this repo is Expo This ExpoBuildTodoApp, application refer by youtube tutorial video .
+  
+  Link: https://youtu.be/LH_SoXiu_Hk?si=NvRZoo8caRBPf--F
 
-  https://youtu.be/LH_SoXiu_Hk?si=NvRZoo8caRBPf--F
 
   ![image](https://github.com/Soo2024/new/assets/155339318/c4b1602c-c3e3-48ed-baa7-3f6e38bc498d)
 
