@@ -22,5 +22,13 @@ All the folder is used git to clone into this repo.
   
 
 
-  
+
+3. Look At the folder Name Called Small React Native Project
+
+   This can help learning basic components of react native.
+     Make Sure Used Command below to install node_modules .
+   
+                npm install
+
+    
   
