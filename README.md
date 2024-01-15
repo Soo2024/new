@@ -30,8 +30,9 @@ All the folder is used git to clone into this repo.
    
                 npm install
 
-    The project here used expo go application ( a simple app) .
+    The project here used expo go application ( a simple app) . Link below is reference to set up the project.
 
     Here is the reference Link: https://reactnative.dev/docs/environment-setup?guide=quickstart
-    
+
+    Make Sure follow the instructions of the website link above.
   
